@@ -13,7 +13,7 @@ from cura import ApplicationMetadata
 import time
 
 class CuraSplashScreen(QSplashScreen):
-    def __init__(self):
+    def __init__(self, fixed_width=601, fixed_height=392):
         super().__init__()
         self._scale = 1
         self._version_y_offset = 0  # when extra visual elements are in the background image, move version text down
@@ -25,6 +25,9 @@ class CuraSplashScreen(QSplashScreen):
             self._version_y_offset = 26
         else:
             splash_image = QPixmap(Resources.getPath(Resources.Images, "cura.png"))
+        
+        # Scale the splash image to a fixed size
+        splash_image = splash_image.scaled(fixed_width, fixed_height, Qt.AspectRatioMode.KeepAspectRatio)
 
         self.setPixmap(splash_image)
 
