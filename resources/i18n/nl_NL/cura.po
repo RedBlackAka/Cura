@@ -1396,8 +1396,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Tijdens de voorbeeldfase zijn er maximaal 5 back-ups zichtbaar. Verwijder een back-up als u oudere back-ups wilt bekijken."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "E&xtensies"
+msgid "Extensions"
+msgstr "Extensies"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2916,8 +2916,8 @@ msgstr[0] "Overschrijft %1 instelling."
 msgstr[1] "Overschrijft %1 instellingen."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "Voo&rkeuren"
+msgid "Preferences"
+msgstr "Voorkeuren"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

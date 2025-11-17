@@ -1470,8 +1470,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Během fáze náhledu budete omezeni na 5 viditelných záloh. Chcete-li zobrazit starší, odstraňte zálohu."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "D&oplňky"
+msgid "Extensions"
+msgstr "Doplňky"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -3009,8 +3009,8 @@ msgstr[1] "Přepíše %1 nastavení."
 msgstr[2] "Přepíše %1 nastavení."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "P&reference"
+msgid "Preferences"
+msgstr "Preference"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

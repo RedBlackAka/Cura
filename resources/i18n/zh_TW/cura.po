@@ -1459,8 +1459,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "在預覽階段限制只能顯示 5 個備份。 刪除備份以顯示較舊的備份。"
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "擴充功能（&X）"
+msgid "Extensions"
+msgstr "擴充功能"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2993,8 +2993,8 @@ msgid_plural "Overrides %1 settings."
 msgstr[0] "覆寫 %1 設定。"
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "偏好設定（&R）"
+msgid "Preferences"
+msgstr "偏好設定"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

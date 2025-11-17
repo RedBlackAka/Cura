@@ -1399,8 +1399,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Durante a fase de pré-visualização, terá um limite de 5 cópias de segurança visíveis. Remova uma cópia de segurança para ver as antigas."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "E&xtensões"
+msgid "Extensions"
+msgstr "Extensões"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2919,8 +2919,8 @@ msgstr[0] "Substitui %1 definição."
 msgstr[1] "Substitui %1 definições."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "P&referências"
+msgid "Preferences"
+msgstr "Preferências"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

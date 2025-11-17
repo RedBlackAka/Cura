@@ -1398,8 +1398,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "In der Vorschau-Phase sind Sie auf 5 sichtbare Backups beschränkt. Ein Backup entfernen, um ältere anzusehen."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "Er&weiterungen"
+msgid "Extensions"
+msgstr "Erweiterungen"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2918,8 +2918,8 @@ msgstr[0] "Überschreibt %1-Einstellung."
 msgstr[1] "Überschreibt %1-Einstellungen."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "&Konfiguration"
+msgid "Preferences"
+msgstr "Konfiguration"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

@@ -10,7 +10,7 @@ import Cura 1.0 as Cura
 Cura.Menu
 {
     id: base
-    title: catalog.i18nc("@title:menu menubar:toplevel", "&View")
+    title: catalog.i18nc("@title:menu menubar:toplevel", "View")
 
     Cura.Menu
     {

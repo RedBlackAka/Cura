@@ -1396,8 +1396,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Pendant la phase de prévisualisation, vous ne pourrez voir qu'un maximum de 5 sauvegardes. Supprimez une sauvegarde pour voir les plus anciennes."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "E&xtensions"
+msgid "Extensions"
+msgstr "Extensions"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2916,8 +2916,8 @@ msgstr[0] "Remplace le paramètre %1."
 msgstr[1] "Remplace les paramètres %1."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "P&références"
+msgid "Preferences"
+msgstr "Préférences"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

@@ -1447,8 +1447,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr ""
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "Laa&jennukset"
+msgid "Extensions"
+msgstr "Laajennukset"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2983,8 +2983,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "L&isäasetukset"
+msgid "Preferences"
+msgstr "Lisäasetukset"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

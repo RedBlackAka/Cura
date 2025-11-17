@@ -1395,8 +1395,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "미리 보기 단계 중에는 보이는 백업 5개로 제한됩니다. 기존 백업을 보려면 백업을 제거하십시오."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "확장 프로그램(&X)"
+msgid "Extensions"
+msgstr "확장 프로그램"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2912,8 +2912,8 @@ msgid_plural "Overrides %1 settings."
 msgstr[0] "%1 설정을 덮어씁니다."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "환경설정(&R)"
+msgid "Preferences"
+msgstr "환경설정"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

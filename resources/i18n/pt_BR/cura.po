@@ -1580,8 +1580,8 @@ msgstr ""
 " Remova um backup para ver os mais antigos."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "E&xtensões"
+msgid "Extensions"
+msgstr "Extensões"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -3278,8 +3278,8 @@ msgstr[0] "Sobrepõe %1 ajuste."
 msgstr[1] "Sobrepõe %1 ajustes."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "P&referências"
+msgid "Preferences"
+msgstr "Preferências"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

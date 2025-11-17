@@ -11,7 +11,7 @@ import Cura 1.0 as Cura
 Cura.Menu
 {
     id: helpMenu
-    title: catalog.i18nc("@title:menu menubar:toplevel", "&Help")
+    title: catalog.i18nc("@title:menu menubar:toplevel", "Help")
 
     Cura.MenuItem { action: Cura.Actions.showProfileFolder }
     Cura.MenuItem { action: Cura.Actions.documentation }

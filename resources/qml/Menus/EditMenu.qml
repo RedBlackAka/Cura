@@ -9,7 +9,7 @@ import Cura 1.0 as Cura
 
 Cura.Menu
 {
-    title: catalog.i18nc("@title:menu menubar:toplevel", "&Edit")
+    title: catalog.i18nc("@title:menu menubar:toplevel", "Edit")
 
     Cura.MenuItem { action: Cura.Actions.undo }
     Cura.MenuItem { action: Cura.Actions.redo }

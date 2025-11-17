@@ -1460,8 +1460,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Podczas fazy podglądu będziesz ograniczony do 5 widocznych kopii zapasowych. Usuń kopię zapasową, aby zobaczyć starsze."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "&Rozszerzenia"
+msgid "Extensions"
+msgstr "Rozszerzenia"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2996,7 +2996,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
+msgid "Preferences"
 msgstr "Preferencje"
 
 msgctxt "@item:inlistbox"

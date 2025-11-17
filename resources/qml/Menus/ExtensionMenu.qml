@@ -10,7 +10,7 @@ import Cura 1.0 as Cura
 Cura.Menu
 {
     id: extensionMenu
-    title: catalog.i18nc("@title:menu menubar:toplevel", "E&xtensions")
+    title: catalog.i18nc("@title:menu menubar:toplevel", "Extensions")
     property var extensionModel: UM.ExtensionModel { }
     Component
     {

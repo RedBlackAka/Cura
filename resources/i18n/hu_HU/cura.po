@@ -1457,8 +1457,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Az előnézeti szakaszban a látható biztonsági mentések száma 5 lehet.Ha szeretné látni a régebbieket, távolítson el egyet a láthatóak közül."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "K&iterjesztések"
+msgid "Extensions"
+msgstr "Kiterjesztések"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2993,8 +2993,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "P&referenciák"
+msgid "Preferences"
+msgstr "Preferenciák"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"

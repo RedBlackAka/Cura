@@ -1404,7 +1404,7 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "На этапе предварительного просмотра отображается только 5 резервных копий. Для просмотра предыдущих резервных копий удалите одну копию."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
+msgid "Extensions"
 msgstr "Расширения"
 
 msgctxt "@action:button"
@@ -2930,7 +2930,7 @@ msgstr[2] "Переопределяет %1 настроек."
 msgstr[3] ""
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
+msgid "Preferences"
 msgstr "Настройки"
 
 msgctxt "@item:inlistbox"

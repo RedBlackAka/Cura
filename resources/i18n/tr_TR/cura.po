@@ -1398,7 +1398,7 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "Önizleme aşamasında en fazla 5 yedekleme görüntüleyebilirsiniz. Önceki yedeklemeleri görmek için mevcut yedeklemelerden birini kaldırın."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
+msgid "Extensions"
 msgstr "Uzantılar"
 
 msgctxt "@action:button"
@@ -2918,7 +2918,7 @@ msgstr[0] "%1 ayarı geçersiz kılar."
 msgstr[1] "%1 ayarı geçersiz kılar."
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
+msgid "Preferences"
 msgstr "Tercihler"
 
 msgctxt "@item:inlistbox"

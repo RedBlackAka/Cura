@@ -1464,8 +1464,8 @@ msgid "During the preview phase, you'll be limited to 5 visible backups. Remove 
 msgstr "プレビューではバックアップは5つまでに制限されています。古いバックアップは削除してください。"
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "E&xtensions"
-msgstr "拡張(&E)"
+msgid "Extensions"
+msgstr "拡張"
 
 msgctxt "@action:button"
 msgid "Edit"
@@ -2997,8 +2997,8 @@ msgid_plural "Overrides %1 settings."
 msgstr[0] "%1個の設定を上書きします。"
 
 msgctxt "@title:menu menubar:toplevel"
-msgid "P&references"
-msgstr "環境設定(&R)"
+msgid "Preferences"
+msgstr "環境設定"
 
 msgctxt "@item:inlistbox"
 msgid "PNG Image"
